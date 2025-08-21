@@ -51,16 +51,4 @@ This work was completed as part of a **Data Science graduate project at UMBC** (
 - Identified **peak hours and rainy conditions** as major drivers of high fares.  
 - **Streamlit Dashboard** provides real-time fare predictions and interactive insights.  
 
-Example outputs:  
-- Feature importance plot (`results/feature_importance.png`)  
-- Model comparison chart (`results/model_comparison.png`)  
-- Dashboard screenshot (`results/dashboard_screenshot.png`)  
 
----
-
-## 🚀 How to Run
-
-### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/your-username/ride_hailing_fare_prediction.git
-cd ride_hailing_fare_prediction
